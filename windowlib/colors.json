@@ -1,0 +1,67 @@
+[
+  {
+    "foreground": "curses.COLOR_RED",
+    "background": " curses.COLOR_BLACK",
+    "id": 1
+  },
+  {
+    "foreground": "curses.COLOR_GREEN",
+    "background": " curses.COLOR_BLACK",
+    "id": 2
+  },
+  {
+    "foreground": "curses.COLOR_YELLOW",
+    "background": " curses.COLOR_BLACK",
+    "id": 3
+  },
+  {
+    "foreground": "curses.COLOR_BLUE",
+    "background": " curses.COLOR_BLACK",
+    "id": 4
+  },
+  {
+    "foreground": "curses.COLOR_MAGENTA",
+    "background": " curses.COLOR_BLACK",
+    "id": 5
+  },
+  {
+    "foreground": "curses.COLOR_CYAN",
+    "background": " curses.COLOR_BLACK",
+    "id": 6
+  },
+  {
+    "foreground": "curses.COLOR_WHITE",
+    "background": " curses.COLOR_BLACK",
+    "id": 7
+  },
+  {
+    "foreground": "curses.COLOR_BLACK",
+    "background": " curses.COLOR_BLACK",
+    "id": 8
+  },
+  {
+    "foreground": "curses.COLOR_WHITE",
+    "background": " curses.COLOR_WHITE",
+    "id": 10
+  },
+  {
+    "foreground": "curses.COLOR_BLUE",
+    "background": " curses.COLOR_WHITE",
+    "id": 11
+  },
+  {
+    "foreground": "curses.COLOR_BLACK",
+    "background": " curses.COLOR_WHITE",
+    "id": 12
+  },
+  {
+    "foreground": "curses.COLOR_BLUE",
+    "background": " curses.COLOR_BLACK",
+    "id": 20
+  },
+  {
+    "foreground": "curses.COLOR_GREEN",
+    "background": " curses.COLOR_BLACK",
+    "id": 21
+  }
+]
