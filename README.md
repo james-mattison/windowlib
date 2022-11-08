@@ -1,5 +1,5 @@
+## windowlib
 
-### framedwindow library
 
 > __Library to build simple menus, forms, and text-user-interfaces with Python 3.__
 > _A no-dependency way to provide simple dynamic Forms, Menus, and pretty-looking 
@@ -8,7 +8,18 @@
 >
 
 
-### Quickstart
+## Quickstart
+
+### Installation
+
+`windowlib` can be installed via pip:
+
+```
+pip3 install windowlib
+```
+
+### Usage Examples
+
 Here are three simple examples of the three main input classes, ```Form``` and ``` Menu```, and ``` FormTemplate```
 #### Form:
 ``` python
